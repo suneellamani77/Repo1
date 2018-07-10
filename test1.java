@@ -10,7 +10,7 @@ public class test1 {
 
 		System.out.println("Suneel Lamani 5th build automatically....");
 		
-	System.out.println("Suneel Lamani 6th build automatically....");
+	System.out.println("Suneel Lamani 6th build automatically change....");
 	}
 
 }
